@@ -8,6 +8,7 @@ A fun and interactive web-based dice game built with HTML, CSS, and JavaScript. 
 - CSS – Styling and typography.
 - JavaScript – Dice logic and DOM manipulation.
 - Google Fonts – Indie Flower & Lobster for playful aesthetics.
+- Editor: VS Code.
 
 🎮 How It Works
 - On page load, JavaScript generates two random numbers between 1 and 6.
@@ -20,4 +21,4 @@ A fun and interactive web-based dice game built with HTML, CSS, and JavaScript. 
 - Each dice face is represented by a separate PNG file.
 
 👩‍💻 Author  
-Created by Nandini Karikalan
+Created by Nandini Karikalan on 02.10.2025
