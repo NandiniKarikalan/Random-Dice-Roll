@@ -1,4 +1,4 @@
-🎲 Dicee – Random Dice Roll Game
+# 🎲 Random Dice Roll Game
 
 A fun and interactive web-based dice game built with HTML, CSS, and JavaScript. Refresh the page to roll the dice and see who wins — Player 1, Player 2, or a draw!
 
@@ -19,5 +19,5 @@ A fun and interactive web-based dice game built with HTML, CSS, and JavaScript. 
 - Dice images are stored in the images/ folder.
 - Each dice face is represented by a separate PNG file.
 
-👩‍💻 Author
+👩‍💻 Author  
 Created by Nandini Karikalan
